@@ -2,5 +2,6 @@
 
 Plantilla básica de ejemplo de integración de PySide con Python de manera desacoplada
 
-## Estructura directorios
+# Uso
 
+Ver https://trasteandoenlared.es/archivos/380
