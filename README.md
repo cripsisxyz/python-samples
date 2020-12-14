@@ -1,6 +1,4 @@
-# Repositorio público
-
-Bienvenido al repositorio público de trasteandoenlared.es
+# Repositorio público de muestras de ejemplo de python
 
 ## Estructura directorios
 
